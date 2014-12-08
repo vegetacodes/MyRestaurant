@@ -1,0 +1,20 @@
+Wendy's,(505)843-7997,No,3,9:00 am - 1:00 am,Fast food Restaurant
+Thai House,(505)247-9205,No,4,10:00 am - 8:00 pm,Thai Cuisine
+Frontier Restaurant,(505)266-0550,No,4,5:00 am - 1:00 am,Restaurant or Cafe
+The Cube,(505)243-0023,No,4,10:00 am - 6:00 pm,Restaurant or Cafe
+Anapurna's World Vegeterian Cafe,(505)262-2424,Yes,3,7:00 am - 9:00 pm,Vegeterian
+Bandido Hideout,(505)242-5366,No,4,8:00 am - 11:00 pm,Restaurant or Cafe
+Dunkin Donut's,(505)843-6552,No,4,open 24 hrs,Coffee Shop
+Kai's Chinese Restaurant,(505)266-8388,No,4,11:00 am - 9:00 pm,Chinese Restaurant
+El Patio De Albuquerque,(505)268-4245,No,4,11:00 am - 9:00 pm,Restaurant or Cafe 
+66 Diner,(505)247-1421,No,4,11:00 am - 10:00 pm,Diner
+Guava Tree Cafe,(505)990-2599,No,5,11:00 am - 4:00 pm,Latin American Restaurant
+Pericos De Albuquerque,(505)247-2503,No,3,9:30 am - 9:00 pm,Restaurant or Cafe
+Papa John's Pizza,(505)255-7272,Yes,4,10:00 am - 12:00 am,Pizza 
+Yasmine's Cafe,(505)242-1980,No,4,10:00 am - 9:00 pm,Mediterranean Restaurant
+McDonald's,(505)265-2750,No,2,6:00 am - 10:00 pm,Fast Food Restaurant
+Olympia Cafe,(505)266-5222,No,3,11:00 am - 10:00 pm,Restaurant
+Pita Pit,(505)242-7428,No,3,11:00 am - 3:00 am,Sandwich Shop
+Saggios,(505)255-5454,Yes,4,11:00 am - 10:00 pm,Restaurant
+Brickyard Pizza,(505)262-2216,No,3,11:00 am - 2:00 pm,Italian Restaurant
+Subway,(505)247-0098,No,4,7:00 am - 10:00 pm,Sandwich Shop
