@@ -1,8 +1,8 @@
-1,1808 Central ave SE,87106,Albuquerque,NM
-2,106 Buena Vista Dr SE,87106,Albuquerque,NM
-3,2400 Central Ave SE,87106,Albuquerque,NM 
-4,1520 Central Ave SE,87106,Albuquerque,NM 
-5,2201 Silver Ave SE,87106,Albuquerque,NM 
+1,1808 Central ave SE,87102,Albuquerque,NM
+2,106 Buena Vista Dr SE,87101,Albuquerque,NM
+3,2400 Central Ave SE,87102,Albuquerque,NM 
+4,1520 Central Ave SE,87103,Albuquerque,NM 
+5,2201 Silver Ave SE,87102,Albuquerque,NM 
 6,2128 Central Ave SE,87106,Albuquerque,NM
 7,1902 Central Ave SE,87106,Albuquerque,NM 
 8,138 Harvard Dr SE,87106,Albuquerque, NM 
@@ -18,8 +18,4 @@
 18,107 Cornell Dr SE,87106,Albuquerque, NM 
 19,2216 Central Ave SE,87106,Albuquerque, NM 
 20,1100 Central SE Main Food Court Presbyterian Hospital,87106,Albuquerque,NM 
-21,2132 Central Ave SE,87106,Albuquerque, NM 
-22,2300 Central Ave SE,87106,Albuquerque, NM
-23,2132 Central Ave SE,87106,Albuquerque, NM 
-24, 600 Central Ave SE,87102,Albuquerque, NM 
-25,2608 Central Ave SE,87102,Albuquerque, NM
+

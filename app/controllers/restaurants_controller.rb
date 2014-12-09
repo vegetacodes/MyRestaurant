@@ -4,12 +4,23 @@ class RestaurantsController < ApplicationController
   # GET /restaurants
   # GET /restaurants.json
   def index
-    @restaurants = Restaurant.all
+    if params[:search]
+      locations = Location.where("zip = ?", params[:search])
+      # @restaurants = Restaurant.where("id = ?", l.pluck(:restaurant_id).join())
+      # UK: this has audacious assumption that the restaurant_ids > location.restaurant_id, you can use rescue to capture the runtime erorr!
+      @restaurants = Restaurant.where(id: locations.pluck(:restaurant_id))
+    else
+      @restaurants = Restaurant.all
+    end
   end
 
   # GET /restaurants/1
   # GET /restaurants/1.json
   def show
+  end
+
+  def search
+
   end
 
   # GET /restaurants/new
